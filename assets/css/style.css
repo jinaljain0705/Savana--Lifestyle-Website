@@ -476,7 +476,7 @@ nav ul li:first-child a{
     justify-content: center;
     gap: 10px;
 }
-.social-icons img {
+.social-icons a {
     color: var(--primary-color);
     width: 24px;
     height: 24px;
@@ -769,6 +769,9 @@ h3 {
     font-size: 18px;
     color: #fff;
     margin-bottom: 20px;
+}
+.about-footer ul li a{
+    color: #aaa;
 }
 .newsletter {
     display: flex;
