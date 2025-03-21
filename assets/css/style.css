@@ -747,14 +747,9 @@ footer {
     color: #fff;
     padding: 40px 0;
 }
-.col-4, .col-3 {
-    flex: 1;
-    min-width: 250px;
-    margin-bottom: 20px;
-}
 .logo {
     width: 150px;
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
 }
 p {
     font-size: 14px;
